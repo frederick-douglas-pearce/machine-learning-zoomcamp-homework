@@ -1,1 +1,2 @@
 # machine-learning-zoomcamp-homework
+This repository contains homework assignment solutions for the Machine Learning Zoomcamp course described [here](https://datatalks.club/courses/ml-zoomcamp/). The github repository for this course is can be found [here](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)
