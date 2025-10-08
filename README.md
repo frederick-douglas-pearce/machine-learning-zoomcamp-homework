@@ -1,3 +1,4 @@
 # machine-learning-zoomcamp-homework
 This repository contains homework assignment solutions for the Machine Learning Zoomcamp course described [here](https://datatalks.club/courses/ml-zoomcamp/). The github repository for this course can be found [here](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master). The following homeworks assignments have been completed to date:
 - [hw01](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/01-intro/homework.md)
+- [hw02](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/02-regression/homework.md)
