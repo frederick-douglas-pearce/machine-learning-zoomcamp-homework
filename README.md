@@ -4,3 +4,6 @@ This repository contains homework assignment solutions for the Machine Learning 
 - [hw02](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/02-regression/homework.md)
 - [hw03](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/03-classification/homework.md)
 - [hw04](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/04-evaluation/homework.md)
+[hw05](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/04-deployment/homework.md)
+[hw06](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/04-trees/homework.md)
+[hw08](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/04-deep-learning/homework.md)
